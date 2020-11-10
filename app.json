@@ -1,0 +1,12 @@
+{
+  "name": "urban-parakeet",
+  "displayName": "urban-parakeet",
+  "expo": {
+    "name": "urban-parakeet",
+    "slug": "urban-parakeet",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
